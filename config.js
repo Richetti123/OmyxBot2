@@ -451,15 +451,15 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://www.instagram.com/ceogeripium.dzn'
-global.ig = 'https://www.instagram.com/ceogeripium.dzn'
-global.md = 'https://www.instagram.com/ceogeripium.dzn'
-global.fb = 'https://www.instagram.com/richetti_123'
-global.tk = 'https://www.instagram.com/richetti_123'
-global.ths = 'https://www.instagram.com/richetti_123'
+global.yt = 'https://www.instagram.com/omyxventa_100'
+global.ig = 'https://www.instagram.com/omyxventa_100'
+global.md = 'https://www.instagram.com/omyxventa_100'
+global.fb = 'https://www.instagram.com/omyxventa_100'
+global.tk = 'https://www.instagram.com/omyxventa_100'
+global.ths = 'https://www.instagram.com/omyxventa_100'
 global.paypal = 'https://paypal.me/richetti123'
 global.asistencia = 'https://wa.me/56928561853'
-global.all = 'https://www.instagram.com/richetti_123'
+global.all = 'https://www.instagram.com/omyxventa_100'
 global.canal1 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
 global.canal2 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
 global.canal3 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
